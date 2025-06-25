@@ -2,7 +2,7 @@
 
 Web application for selling tickets using blockchain technology. [Click here to preview.][preview]
 
-[preview]: https://djalowiecki.toadres.pl/studies-search/
+[preview]: https://jalowiecki.toadres.pl/
 
 ---
 
